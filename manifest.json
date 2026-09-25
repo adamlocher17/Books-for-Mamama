@@ -1,0 +1,8 @@
+{
+  "name": "Books for Mamama",
+  "short_name": "Mamama Books",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ff9a9e",
+  "theme_color": "#ff8fa3"
+}
